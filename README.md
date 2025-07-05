@@ -11,8 +11,7 @@ prompting GPT in a novel way.
 Chisel includes a small script which is able to create readable digibyte thunderwords. These are special addresses
 that can easily be read. This version of Chisel if made to operate on the digibyte ledger. An example of a 
 "chisel" message is:
-
-[
+<pre><code>[
   [ 
     { "txid": "a3349258e17e807b7e0074bc17d89cb675be7656e4a0f5946515a872549c0f63", "vout": 0 }
   ],
@@ -21,7 +20,8 @@ that can easily be read. This version of Chisel if made to operate on the digiby
     { "DCxWESTWoRLDzzzzzzzzzzzzzzzzXeBskz": 0.00006 },
     { "data": "00" }
   ]
-]
+]</code></pre>
+
 
 
 
